@@ -1,0 +1,8 @@
+hello
+add John 1234567890
+add-birthday John 15.06.1990
+phone John
+show-birthday John
+birthdays
+all
+exit

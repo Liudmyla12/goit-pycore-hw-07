@@ -1,0 +1,13 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual env (на випадок, якщо створюватимеш локально)
+.venv/
+venv/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
